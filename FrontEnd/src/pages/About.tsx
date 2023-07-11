@@ -8,7 +8,10 @@ function About() {
            <Navbar/> 
          <p>This is about page and this one is done for testing</p>
          <p>Our testing has succeeded</p> 
-        </div>
+<p>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo. hiiiiiiiiiiiiiiiiiiii</p> 
+                
+</div>
+
     );
 }
 
